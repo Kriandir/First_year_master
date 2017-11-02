@@ -1,0 +1,3 @@
+average = 0.115884
+median = 0.115543
+deviation 0.001330

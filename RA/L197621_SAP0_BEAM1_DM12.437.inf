@@ -1,0 +1,25 @@
+ Data file name without suffix          =  L197621_SAP0_BEAM1_DM12.437
+ Telescope used                         =  LOFAR
+ Instrument used                        =  HBA_110_190
+ Object being observed                  =  B1921+21
+ J2000 Right Ascension (hh:mm:ss.ssss)  =  19:21:45.0000
+ J2000 Declination     (dd:mm:ss.ssss)  =  21:53:02.0000
+ Data observed by                       =  
+ Epoch of observation (MJD)             =  56667.645810466550756
+ Barycentered?           (1=yes, 0=no)  =  1
+ Number of bins in the time series      =  68544      
+ Width of each time series bin (sec)    =  0.00262143998406827
+ Any breaks in the data? (1=yes, 0=no)  =  0
+ Type of observation (EM band)          =  Radio
+ Beam diameter (arcsec)                 =  0
+ Dispersion measure (cm-3 pc)           =  12.437
+ Central freq of low channel (Mhz)      =  126.07421875
+ Total bandwidth (Mhz)                  =  35.546875
+ Number of channels                     =  11648
+ Channel bandwidth (Mhz)                =  0.0030517578125
+ Data analyzed by                       =  hessels
+ Any additional notes:
+    Project ID , Date: 2014-01-10T15:30:00.
+    1 polns were not summed.  Samples have 8 bits.
+
+
